@@ -1,5 +1,5 @@
 # Project Status Board
-Software driver for to output HTTP response color codes to a WS8211 LED string. The hardware used as an example for the sake of this README is a Raspberry Pi and Neopixel LEDs. 
+Software driver to output HTTP response color codes to a WS8211 LED string. The hardware used as an example for the sake of this README is a Raspberry Pi and Neopixel LEDs. 
 
 
 ## Hardware Setup
